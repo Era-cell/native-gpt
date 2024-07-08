@@ -11,7 +11,7 @@ export default function RootLayout() {
 
   return (
     <NavigationContainer independent={true}>
-      <Stack.Navigator>
+      <Stack.Navigator screenOptions={{headerShown: false}} initialRouteName='welcome'>
         <Stack.Screen name="home" component={HomeScreen} />
         <Stack.Screen name="welcome" component={WelcomeScreen} />
       </Stack.Navigator>
