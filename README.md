@@ -27,18 +27,10 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## Preview of the app
 
-<img class=mobile-image src="assets/readme/IMG_2442.jpg" />
-<img class=mobile-image src="assets/readme/IMG_2443.png" />
-
-<style>
-  .img {
-    display: inline-block;
-  }
-  img.mobile-image {
-	width: 49%;
-    display: inline-block;
-  }
-</style>
+<p>
+  <img src="assets/readme/IMG_2442.jpg" alt="Preview 1" style="width:49%; display:inline-block;"/>
+  <img src="assets/readme/IMG_2443.png" alt="Preview 2" style="width:49%; display:inline-block;"/>
+</p>
 
 ## Status of development
 
