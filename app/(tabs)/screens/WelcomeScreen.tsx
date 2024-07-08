@@ -9,10 +9,10 @@ export default function WelcomeScreen() {
     <SafeAreaView className="flex-1 flex justify-around bg-white">
       <View className="space-y-2">
         <Text style={{fontSize: wp(10)}} className="text-center font-bold text-gray-700">
-          Jarvis
+          Chat AI
         </Text>
         <Text style={{fontSize: wp(4)}} className="text-center tracking-wider text-gray-600 font-semibold">
-          The Future is here
+          Built on Windows, backend to be implemented
         </Text>
       </View>
       <View className="flex-row justify-center">

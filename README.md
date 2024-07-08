@@ -25,26 +25,22 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## Preview of the app
 
-When you're ready, run:
+<img class=mobile-image src="assets/readme/IMG_2442.jpg" />
+<img class=mobile-image src="assets/readme/IMG_2443.png" />
 
-```bash
-npm run reset-project
-```
+<style>
+  .img {
+    display: inline-block;
+  }
+  img.mobile-image {
+	width: 49%;
+    display: inline-block;
+  }
+</style>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Status of development
 
-## Learn more
+The UI design has been completed, the backend and voice assistant implementation going on.
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
